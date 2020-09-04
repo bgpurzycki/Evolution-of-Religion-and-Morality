@@ -1,8 +1,8 @@
-### Evolution-of-Religion-and-Morality
+## Evolution of Religion and Morality
 This project was designed to explore the relationship between certain elements of religions, like supernatural beliefs and rituals, and prosocial behavior. More specifically, do different elements of supernatural agents (e.g. fear of supernatural punishment, attributed breadth of knowledge, attributed concerns) moderate or mediate the impact of belief in those agents on prosocial behavior? When effective secular judicial institutions are present, do they reduce the impact of belief in those agents? How do cognitive systems affect commitment to supernatural agents? By combining a battery of tasks, most of which assess elements of religion, with both experimental tools and ethnographic measures we aim to address these questions. By gathering these data in many places around the world, we will be able to begin to tease apart the underlying mechanisms and boundary conditions of religiously motivated sociality.
 
-### Publications
-## Wave 1
+## Publications
+### Wave 1
 
 Apicella, C. L. (2018). High Levels of Rule-Bending in a Minimally Religious and Largely Egalitarian Forager Population. Religion, Brain & Behavior, 8(2): 133–48. https://doi.org/10.1080/2153599X.2016.1267034.
 
