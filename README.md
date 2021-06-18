@@ -13,13 +13,13 @@ Apicella, C. L. (2018). High Levels of Rule-Bending in a Minimally Religious and
 
 Atkinson, Q. D. (2018). Religion and Expanding the Cooperative Sphere in Kastom and Christian Villages on Tanna, Vanuatu. Religion, Brain & Behavior, 8(2): 149–67. https://doi.org/10.1080/2153599X.2016.1267028.
 
-Cohen, E., Baimel, A., and Purzycki, B. G. (2018). Religiosity and resource allocation in Marajó, Brazil. Religion, Brain and Behavior, 8(2):  168-184. Supplementary materials.
+Cohen, E., Baimel, A., and Purzycki, B. G. (2018). Religiosity and resource allocation in Marajó, Brazil. Religion, Brain and Behavior, 8(2):  168-184. 
 
 McNamara, R. A., and Henrich, J. (2018). Jesus vs. the Ancestors: How Specific Religious Beliefs Shape Prosociality on Yasawa Island, Fiji. Religion, Brain & Behavior, 8(2): 185–204. https://doi.org/10.1080/2153599X.2016.1267030.
 
 Purzycki, B. G., and Jamieson-Lane, A. (2017). AnthroTools: An R package for cross-cultural ethnographic data analysis. Cross-Cultural Research, 51(1):  51-74.
 
-Purzycki, B. G., and Kulundary, V. (2018). Buddhism, identity, and class: Fairness and favoritism in the Tyva Republic. Religion, Brain and Behavior, 8(2): 205-226. Supplementary materials.
+Purzycki, B. G., and Kulundary, V. (2018). Buddhism, identity, and class: Fairness and favoritism in the Tyva Republic. Religion, Brain and Behavior, 8(2): 205-226. 
 
 Purzycki, B. G., and Lang, M. (2019). Identity fusion, outgroups, and sacrifice: A cross-cultural test. Cognition, 186: 1-6.
 
@@ -27,9 +27,9 @@ Purzycki, B. G., Henrich, J. and Norenzayan, A., eds. (2018). The Evolution of R
 
 Purzycki, B. G., Henrich, J., Apicella, C., Atkinson, Q., Baimel, A., Cohen, E., McNamara, R. A., Willard, A. K., Xygalatas, D., and Norenzayan, A. (2018). The evolution of religion and morality: A synthesis of ethnographic and experimental evidence from eight societies. Religion, Brain and Behavior, 8(2): 101-132. Supplementary materials.
 
-Purzycki, B. G., Pisor, A. C., Apicella, C., Atkinson, Q., Cohen, E., Henrich, J., McElreath, R., McNamara, R. A., Norenzayan, A., Willard, A. K., and Xygalatas, D. (2018). The cognitive and cultural foundations of moral behavior. Evolution and Human Behavior, 39(5): 490-501. Supplementary materials.
+Purzycki, B. G., Pisor, A. C., Apicella, C., Atkinson, Q., Cohen, E., Henrich, J., McElreath, R., McNamara, R. A., Norenzayan, A., Willard, A. K., and Xygalatas, D. (2018). The cognitive and cultural foundations of moral behavior. Evolution and Human Behavior, 39(5): 490-501. 
 
-Purzycki, B. G., Ross, C. T., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Norenzayan, A., and Henrich, J. (2018). Material security, life history, and moralistic religions: A cross-cultural examination. PLOS One, 13(3): e0193856. Supplementary materials.
+Purzycki, B. G., Ross, C. T., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Norenzayan, A., and Henrich, J. (2018). Material security, life history, and moralistic religions: A cross-cultural examination. PLOS One, 13(3): e0193856. 
 
 Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Norenzayan, A., and Henrich, J. (2016). Cross-cultural dataset for the Evolution of Religion and Morality Project. Scientific Data, 3: 16099. doi: 10.1038/sdata.2016.99.
 
