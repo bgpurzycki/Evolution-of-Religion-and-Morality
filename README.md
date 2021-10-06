@@ -5,7 +5,7 @@ This project was designed to explore the relationship between certain elements o
 
 ### Wave 2
 
-Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202.https://doi.org/10.1098/rspb.2019.0202
+Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202. https://doi.org/10.1098/rspb.2019.0202
 
 ### Wave 1
 
