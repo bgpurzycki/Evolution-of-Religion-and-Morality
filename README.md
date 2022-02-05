@@ -17,6 +17,8 @@ Placek, C. D., & Lightner, A. (in press). Big gods, local Gods, and complexity i
 
 Purzycki, Benjamin G., Lang, M., Henrich, J., & Norenzayan, A. (in press). The Evolution of Religion and Morality Project: Reflections and looking ahead. Religion, Brain & Behavior.
 
+Purzycki, B. G., Willard, A., Klocová, E. K., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Lang, M., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Xygalatas, D., and Ross, C. T. (in Press). The moralization bias of gods’ minds: A cross-cultural test. Religion, Brain and Behavior.
+
 Soler, M., Purzycki, B. G., & Lang, M. (in press). Perceptions of moralizing agents and cooperative behavior in Northeastern Brazil. Religion, Brain & Behavior.
 
 Stagnaro, N., Stibbard-Hawkes, D. N. E., & Apicella, C. L. (in press). Do religious and market-based institutions promote cooperation in Hadza hunter-gatherers? Religion, Brain & Behavior.
