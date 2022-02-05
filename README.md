@@ -5,9 +5,9 @@ We collected data over two waves (Wave I: 2013; Wave II: 2015), for a total of 1
 
 When using the data set, please cite the following publications:
 
-Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2016). Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality. Nature, 530(7590): 327-330. https://doi.org/10.1038/nature16980
-
 Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202. https://doi.org/10.1098/rspb.2019.0202
+
+Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2016). Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality. Nature, 530(7590): 327-330. https://doi.org/10.1038/nature16980
 
 Questions should be directed to both Benjamin Grant Purzycki (bgpurzycki [at] cas.au.dk) and Martin Lang (martinlang [at] mail.muni.cz).
 
@@ -15,7 +15,7 @@ Questions should be directed to both Benjamin Grant Purzycki (bgpurzycki [at] ca
 
 ### Wave II
 
-Baimel, A., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Kundtová Klocová, E., Lang, M., Lesogorol, C., Mathew, S., McNamara, R. A., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A. K., … Purzycki, B. G. (In press). Material insecurity predicts greater commitment to moralistic and less commitment to local deities: A cross-cultural investigation. Religion, Brain & 
+Baimel, A., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Kundtová Klocová, E., Lang, M., Lesogorol, C., Mathew, S., McNamara, R. A., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A. K., … Purzycki, B. G. (in press). Material insecurity predicts greater commitment to moralistic and less commitment to local deities: A cross-cultural investigation. Religion, Brain & Behavior.
 
 Bolyanatz, A. (In press). When god is watching: Dictator game tesults from the Sursurunga of New Ireland, Papua New Guinea. Religion, Brain & Behavior.
 
@@ -43,6 +43,8 @@ Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E
 
 ### Wave I
 
+Purzycki, B. G., and Lang, M. (2019). Identity fusion, outgroups, and sacrifice: A cross-cultural test. Cognition, 186: 1-6. https://doi.org/10.1016/j.cognition.2019.01.015
+
 Apicella, C. L. (2018). High Levels of Rule-Bending in a Minimally Religious and Largely Egalitarian Forager Population. Religion, Brain & Behavior, 8(2): 133–48. https://doi.org/10.1080/2153599X.2016.1267034.
 
 Atkinson, Q. D. (2018). Religion and Expanding the Cooperative Sphere in Kastom and Christian Villages on Tanna, Vanuatu. Religion, Brain & Behavior, 8(2): 149–67. https://doi.org/10.1080/2153599X.2016.1267028.
@@ -51,11 +53,7 @@ Cohen, E., Baimel, A., and Purzycki, B. G. (2018). Religiosity and resource allo
 
 McNamara, R. A., and Henrich, J. (2018). Jesus vs. the Ancestors: How Specific Religious Beliefs Shape Prosociality on Yasawa Island, Fiji. Religion, Brain & Behavior, 8(2): 185–204. https://doi.org/10.1080/2153599X.2016.1267030.
 
-Purzycki, B. G., and Jamieson-Lane, A. (2017). AnthroTools: An R package for cross-cultural ethnographic data analysis. Cross-Cultural Research, 51(1):  51-74. https://doi.org/10.1177%2F1069397116680352
-
 Purzycki, B. G., and Kulundary, V. (2018). Buddhism, identity, and class: Fairness and favoritism in the Tyva Republic. Religion, Brain and Behavior, 8(2): 205-226. https://doi.org/10.1080/2153599X.2016.1267031
-
-Purzycki, B. G., and Lang, M. (2019). Identity fusion, outgroups, and sacrifice: A cross-cultural test. Cognition, 186: 1-6. https://doi.org/10.1016/j.cognition.2019.01.015
 
 Purzycki, B. G., Henrich, J. and Norenzayan, A., eds. (2018). The Evolution of Religion and Morality: Wave I [special issue]. Religion, Brain and Behavior, 8(2): 101-261.
 
@@ -65,10 +63,12 @@ Purzycki, B. G., Pisor, A. C., Apicella, C., Atkinson, Q., Cohen, E., Henrich, J
 
 Purzycki, B. G., Ross, C. T., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Norenzayan, A., and Henrich, J. (2018). Material security, life history, and moralistic religions: A cross-cultural examination. PLOS One, 13(3): e0193856. https://doi.org/10.1371/journal.pone.0193856
 
-Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Norenzayan, A., and Henrich, J. (2016). Cross-cultural dataset for the Evolution of Religion and Morality Project. Scientific Data, 3: 16099. doi: 10.1038/sdata.2016.99. https://www.nature.com/articles/sdata201699
-
 Willard, A. K. (2018). Religion and Prosocial Behavior among the Indo-Fijians. Religion, Brain & Behavior 8 (2): 227–42. https://doi.org/10.1080/2153599X.2016.1267032.
 
 Xygalatas, D., Kotherová, S., Maňo, P., Kundt, R., Cigán, J., Kundtová Klocová, E., and Lang, M. (2018). Big Gods in Small Places: The Random Allocation Game in Mauritius. Religion, Brain & Behavior 8 (2): 243–61. https://doi.org/10.1080/2153599X.2016.1267033.
+
+Purzycki, B. G., and Jamieson-Lane, A. (2017). AnthroTools: An R package for cross-cultural ethnographic data analysis. Cross-Cultural Research, 51(1):  51-74. https://doi.org/10.1177%2F1069397116680352
+
+Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Norenzayan, A., and Henrich, J. (2016). Cross-cultural dataset for the Evolution of Religion and Morality Project. Scientific Data, 3: 16099. doi: 10.1038/sdata.2016.99. https://www.nature.com/articles/sdata201699
 
 Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2016). Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality. Nature, 530(7590): 327-330. https://doi.org/10.1038/nature16980
