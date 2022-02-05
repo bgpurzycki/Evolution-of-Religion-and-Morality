@@ -9,7 +9,7 @@ Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E
 
 Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2016). Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality. Nature, 530(7590): 327-330. https://doi.org/10.1038/nature16980
 
-Questions should be directed to both Benjamin Grant Purzycki (bgpurzycki [at] cas.au.dk) and Martin Lang (martinlang [at] mail.muni.cz).
+Questions should be directed to both Martin Lang (martinlang [at] mail.muni.cz) and Benjamin Grant Purzycki (bgpurzycki [at] cas.au.dk).
 
 ## Publications
 
