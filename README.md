@@ -1,9 +1,11 @@
 ## Evolution of Religion and Morality
 This project was designed to explore the relationship between certain elements of religions, like supernatural beliefs and rituals, and prosocial behavior. More specifically, we asked: do different elements of supernatural agents (e.g. fear of supernatural punishment, attributed breadth of knowledge, attributed concerns) moderate or mediate the impact of belief in those agents on prosocial behavior? When effective secular judicial institutions are present, do they reduce the impact of belief in those agents? How do cognitive systems affect commitment to supernatural agents? By combining a battery of tasks, most of which assess elements of religion, with both experimental tools and ethnographic measures we aimed to address these questions. By gathering these data in many places around the world, we begaan to tease apart the underlying mechanisms and boundary conditions of religiously motivated sociality.
 
+We collected data over two waves (Wave I: 2013; Wave II: 2015), for a total of 15 field sites and over 2,200 individuals.
+
 ## Publications
 
-### Wave 2
+### Wave II
 
 Baimel, A., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Kundtová Klocová, E., Lang, M., Lesogorol, C., Mathew, S., McNamara, R. A., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A. K., … Purzycki, B. G. (In press). Material insecurity predicts greater commitment to moralistic and less commitment to local deities: A cross-cultural investigation. Religion, Brain & 
 
@@ -31,7 +33,7 @@ Weigel, J. L. (in press). Prosociality, insurance, and Pentecostalism in the D. 
 
 Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202. https://doi.org/10.1098/rspb.2019.0202
 
-### Wave 1
+### Wave I
 
 Apicella, C. L. (2018). High Levels of Rule-Bending in a Minimally Religious and Largely Egalitarian Forager Population. Religion, Brain & Behavior, 8(2): 133–48. https://doi.org/10.1080/2153599X.2016.1267034.
 
