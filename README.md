@@ -5,14 +5,15 @@ This project was designed to explore the relationship between certain elements o
 
 We collected data over two waves (Wave I: 2013; Wave II: 2015), for a total of 15 field sites and over 2,200 individuals. 
 
-### Citation and Contact
+### Citation
 
 When using the data set, please cite the following publications:
 
-Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202. https://doi.org/10.1098/rspb.2019.0202
+Lang, M., Purzycki, B. G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202. https://doi.org/10.1098/rspb.2019.0202
 
 Purzycki, B. G., Apicella, C., Atkinson, Q., Cohen, E., McNamara, R. A., Willard, A. K., Xygalatas, D., Norenzayan, A., and Henrich, J. (2016). Moralistic Gods, Supernatural Punishment and the Expansion of Human Sociality. Nature, 530(7590): 327-330. https://doi.org/10.1038/nature16980
 
+### Contact
 Questions should be directed to both Martin Lang (martinlang [at] mail.muni.cz) and Benjamin Grant Purzycki (bgpurzycki [at] cas.au.dk).
 
 ## Publications
