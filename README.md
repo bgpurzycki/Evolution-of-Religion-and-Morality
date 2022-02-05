@@ -3,6 +3,8 @@ This project was designed to explore the relationship between certain elements o
 
 We collected data over two waves (Wave I: 2013; Wave II: 2015), for a total of 15 field sites and over 2,200 individuals.
 
+Questions should be directed to both Benjamin Grant Purzycki (bgpurzycki [at] cas.au.dk) and Martin Lang (martinlang [at] mail.muni.cz).
+
 ## Publications
 
 ### Wave II
