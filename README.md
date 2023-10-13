@@ -20,29 +20,29 @@ Questions should be directed to both Martin Lang (martinlang [at] mail.muni.cz) 
 
 ### Wave II
 
-Baimel, A., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Kundtová Klocová, E., Lang, M., Lesogorol, C., Mathew, S., McNamara, R. A., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A. K., … Purzycki, B. G. (in press). Material insecurity predicts greater commitment to moralistic and less commitment to local deities: A cross-cultural investigation. Religion, Brain & Behavior.
+Baimel, A., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Kundtová Klocová, E., Lang, M., Lesogorol, C., Mathew, S., McNamara, R. A., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A. K., … Purzycki, B. G. (2022). Material insecurity predicts greater commitment to moralistic and less commitment to local deities: A cross-cultural investigation. Religion, Brain & Behavior, 12(1-2): 4-17.
 
-Bolyanatz, A. (In press). When god is watching: Dictator game tesults from the Sursurunga of New Ireland, Papua New Guinea. Religion, Brain & Behavior.
+Bolyanatz, A. H. (2022). When god is watching: dictator game results from the Sursurunga of New Ireland, Papua New Guinea. Religion, Brain & Behavior, 12(1-2), 61-78.
 
-Klocová Kundtová, E., Lang, M., Maňo, P., Kundt, R., & Xygalatas, D. (in press). Cigarettes for the dead : Effects of sorcery beliefs on parochial prosociality in Mauritius. Religion, Brain & Behavior.
+Kapepula, G. T., Konshi, M. M., & Weigel, J. L. (2022). Prosociality and Pentecostalism in the DR Congo. Religion, Brain & Behavior, 12(1-2), 150-170.
 
-Lang, M., Purzycki, B. G., Henrich, J. and Norenzayan, A., eds. (in press). The Evolution of Religion and Morality: Wave II [special issue]. Religion, Brain and Behavior.
+Klocová Kundtová, E., Lang, M., Maňo, P., Kundt, R., & Xygalatas, D. (2022). Cigarettes for the dead : Effects of sorcery beliefs on parochial prosociality in Mauritius. Religion, Brain & Behavior, 12(1-2): 116-131.
 
-Placek, C. D., & Lightner, A. (in press). Big gods, local Gods, and complexity in Hindu god concepts: Evidence from South India. Religion, Brain & Behavior.
+Lang, M., Purzycki, B. G., Henrich, J. and Norenzayan, A., eds. (2022). The Evolution of Religion and Morality: Wave II [special issue]. Religion, Brain and Behavior, 12(1-2).
 
-Purzycki, Benjamin G., Lang, M., Henrich, J., & Norenzayan, A. (in press). The Evolution of Religion and Morality Project: Reflections and looking ahead. Religion, Brain & Behavior.
+Placek, C. D., & Lightner, A. (2022). Big gods, local Gods, and complexity in Hindu god concepts: Evidence from South India. Religion, Brain & Behavior, 12(1-2): 97-115.
 
-Purzycki, B. G., Willard, A., Klocová, E. K., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Lang, M., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Xygalatas, D., and Ross, C. T. (in Press). The moralization bias of gods’ minds: A cross-cultural test. Religion, Brain and Behavior.
+Purzycki, Benjamin G., Lang, M., Henrich, J., & Norenzayan, A. (2022). The Evolution of Religion and Morality Project: Reflections and looking ahead. Religion, Brain & Behavior, 12(1-2): 190-211.
 
-Soler, M., Purzycki, B. G., & Lang, M. (in press). Perceptions of moralizing agents and cooperative behavior in Northeastern Brazil. Religion, Brain & Behavior.
+Purzycki, B. G., Willard, A., Klocová, E. K., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Handley, C., Henrich, J., Lang, M., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Norenzayan, A., Placek, C., Soler, M., Vardy, T., Weigel, J., Xygalatas, D., and Ross, C. T. (2022). The moralization bias of gods’ minds: A cross-cultural test. Religion, Brain and Behavior, 12(1-2): 38-60.
 
-Stagnaro, N., Stibbard-Hawkes, D. N. E., & Apicella, C. L. (in press). Do religious and market-based institutions promote cooperation in Hadza hunter-gatherers? Religion, Brain & Behavior.
+Soler, M., Purzycki, B. G., & Lang, M. (2022). Perceptions of moralizing agents and cooperative behavior in Northeastern Brazil. Religion, Brain & Behavior, 12(1-2): 132-149.
 
-Vardy, Tom, & Atkinson, Q. D. (in press). Moralistic and local god beliefs and the extent of prosocial preferences on Tanna Island, Vanuatu. Religion, Brain & Behavior.
+Stagnaro, N., Stibbard-Hawkes, D. N. E., & Apicella, C. L. (2022). Do religious and market-based institutions promote cooperation in Hadza hunter-gatherers? Religion, Brain & Behavior, 12(1-2): 171-189.
 
-Vardy, T, Moya, C., Placek, C., Apicella, C. D., Bolyanatz, A., Cohen, E., Handley, C., Klocová, K., Lesorogol, C., Mathew, S., Mcnamara, R. A., Purzycki, B. G., Soler, M., Willard, A. K., Xygalatas, D., Norenzayan, A., Henrich, J., Lang, M., & Atkinson, Q. D. (In press). The religiosity gender gap in 14 diverse societies. Religion, Brain & Behavior.
+Vardy, Tom, & Atkinson, Q. D. (2022). Moralistic and local god beliefs and the extent of prosocial preferences on Tanna Island, Vanuatu. Religion, Brain & Behavior, 12(1-2): 79-96.
 
-Weigel, J. L. (in press). Prosociality, insurance, and Pentecostalism in the D. R. Congo. Religion, Brain & Behavior.
+Vardy, T, Moya, C., Placek, C., Apicella, C. D., Bolyanatz, A., Cohen, E., Handley, C., Klocová, K., Lesorogol, C., Mathew, S., Mcnamara, R. A., Purzycki, B. G., Soler, M., Willard, A. K., Xygalatas, D., Norenzayan, A., Henrich, J., Lang, M., & Atkinson, Q. D. (2022). The religiosity gender gap in 14 diverse societies. Religion, Brain & Behavior, 12(1-2): 18-37.
 
 Lang, M., Purzycki, B.G., Apicella, C. L., Atkinson, Q., Bolyanatz, A., Cohen, E., Klocová, E. K., Handley, C., Lesorogol, C., Mathew, S., McNamara, R., Moya, C., Placek, C., Soler, M., Vardy, T., Weigel, J., Willard, A., Xygalatas, D., Norenzayan, A., Henrich, J. (2019). Moralistic gods, extended prosociality, and religious parochialism across 15 societies. Proceedings of the Royal Society B, 286(1898): 20190202. https://doi.org/10.1098/rspb.2019.0202
 
